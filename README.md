@@ -11,3 +11,9 @@ Metodos.py
 Modelo.py
 Prueba.py
 Transporte_masivo_dataset.xlsx
+
+Act4
+Archivos:
+
+Transporte_masivo_cluster.xlsx
+aprendizajeNOsupervisado.py
