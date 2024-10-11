@@ -16,4 +16,5 @@ Act4
 Archivos:
 
 Transporte_masivo_cluster.xlsx - 
-aprendizajeNOsupervisado.py
+aprendizajeNOsupervisado.py - 
+modelo_kmeans_transporte.pkl
